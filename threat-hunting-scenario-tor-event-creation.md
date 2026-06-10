@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Francis Osei Amofah
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: https://www.linkedin.com/in/francis-osei-amofah-902601260/
 - **Date**: June 10, 2026
 
 ## Validated By:
